@@ -1,0 +1,24 @@
+# jupyter
+*.ipynb_checkpoints
+
+# tmp folder
+tmp
+
+# mac files
+.DS_Store
+
+# MS PPT
+.pptx
+
+# R project, archives
+*.Rproj
+*.Rhistory
+.Rproj.user
+
+# data in PyTorch_learning
+PyTorch_learning/data
+
+__pycache__
+
+# keys
+_secret
