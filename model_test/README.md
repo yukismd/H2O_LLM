@@ -17,7 +17,7 @@
 
 ### 結果
 https://github.com/yukismd/LLM/blob/main/model_test/result/all_models_results.xlsx  
-① yukismd/JapaneseQuizChatbot_v1 による回答	
-② cyberagent/open-calm-7b による回答
-③ ChatGPT (GPT-3.5) による回答
-④ ChatGPT (GPT-3.5) プロンプト付 による回答
+① 「yukismd/JapaneseQuizChatbot_v1 による回答」  
+② 「cyberagent/open-calm-7b による回答」  
+③ 「ChatGPT (GPT-3.5) による回答」  
+④ 「ChatGPT (GPT-3.5) プロンプト付 による回答」  
